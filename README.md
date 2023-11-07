@@ -45,3 +45,5 @@ __Melhoria 1__, _melhoria 2_
 
 Contribuidor principal: https://www.github.com/Pedrohses
 
+[![Logo do PHP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXPjhLoxSoMuT3ZPDFo7DgDvVI9bBxea1BoBvFuzIt&s)](https://www.github.com/Pedrohses)
+
