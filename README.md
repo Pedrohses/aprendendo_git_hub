@@ -32,3 +32,7 @@ __Melhoria 1__, _melhoria 2_
 ### Imagem local
 
 ![Logo do Python](img/python-logo-png-open-2000.png)
+
+### Imagem externa
+
+![Logo do PHP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXPjhLoxSoMuT3ZPDFo7DgDvVI9bBxea1BoBvFuzIt&s)
